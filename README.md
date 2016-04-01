@@ -9,3 +9,5 @@
 # Demo
 
 ![image](https://github.com/zjol/FormValid/blob/master/demo/demo.gif)
+
+#V1.0
