@@ -8,4 +8,4 @@
 
 # Demo
 
-![image](https://raw.githubusercontent.com/whzhaochao/IOS-Swift-UITableViewDemo/master/readme.gif)
+![image](https://github.com/zjol/FormValid/blob/master/demo/demo.gif)
